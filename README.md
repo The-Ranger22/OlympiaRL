@@ -1,2 +1,2 @@
 # oRL
-JAVA roguelike
+A roguelike being built in Java! Current state: Walking '@'
